@@ -1,0 +1,16 @@
+.btn-blue {
+  background-color: transparent;
+  text-align: center;
+  padding: 20px 24px;
+  border-radius: 26px;
+  color: white;
+  font-weight: !important;
+  font-family: creepster;
+ 
+}
+
+
+.btn-blue:hover {
+  background-color: transparent;
+  color: darkorange;
+  }
